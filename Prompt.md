@@ -1,0 +1,1 @@
+Read all files inside /docs. Do not start coding yet. Analyze the requirements, architecture, specifications and decisions. Identify contradictions, missing requirements, potential breakages, edge cases and over-engineering. Then propose an implementation plan. Do not modify any files until I approve the plan.
